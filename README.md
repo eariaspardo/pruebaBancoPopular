@@ -30,3 +30,8 @@ para acceder a los servicios se probo con PostMan a traves de la URL de tipo:
 * GET " http://localhost:8080/myhotel/ingresoAcompanantes ", 
 * GET " http://localhost:8080/myhotel/serviciosConsumidos ", 
 * GET " http://localhost:8080/myhotel/valorTotal/{documentoCliente} ", 
+
+<h4>Modelo de Base de datos</h4>
+![image](https://user-images.githubusercontent.com/32335000/152251747-14a96913-82db-4545-9ced-7a80ff4a829c.png)
+
+
